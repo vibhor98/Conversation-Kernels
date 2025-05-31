@@ -15,7 +15,7 @@ The paper PDF is available [here](https://arxiv.org/abs/2505.20482)!
 **GraphNLI** is a graph-based deep learning architecture for polarity prediction, which captures both the local and the global context of the online debates through graph walks.
 
 <div align="center">
-  <img src="https://github.com/vibhor98/GraphNLI/blob/main/figures/Conversation_Kernels.pdf">
+  <img src="https://github.com/vibhor98/Conversation-Kernels/tree/main/figures/Conversation_Kernels.pdf">
 </div>
 
 ## Slashdot Dataset
